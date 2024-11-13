@@ -24,7 +24,7 @@ const Resume = () => {
   };
 
   // Replace this with your actual resume URL
-  const resumeUrl = "/resume.pdf";
+  const resumeUrl = "/eportfolio/resume.pdf";
   const resumeFileName = "Jason_Wang_Resume.pdf";
 
   return (

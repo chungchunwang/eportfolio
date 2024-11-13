@@ -23,7 +23,7 @@ const KeyboardShortcut = () => {
 
       // Check if "fruity" was typed
       if (typedKeys.includes('fruity')) {
-        window.location.href = '/fruity.pdf';
+        window.location.href = '/eportfolio/fruity.pdf';
         typedKeys = '';
       }
     };
